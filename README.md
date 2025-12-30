@@ -23,7 +23,7 @@ Android and Wear OS devices.
 - **Wear OS Integration**: If a paired Wear OS device has GlucoView installed, the Android app forwards the new readings to
   the watch, ensuring tiles and complications stay up to date.
 
-**This architecture ensures that devices are kept up to date with minimal delay or battery impact.**
+**This architecture ensures that devices are kept up to date with minimal delay and battery impact.**
 
 ### Architecture Diagram
 
